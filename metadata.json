@@ -1,0 +1,6 @@
+{
+  "name": "Voxel Block Renderer",
+  "description": "A Three.js-based block renderer that loads voxel data from JSON configuration files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
